@@ -12,4 +12,4 @@
 This tool does not applies changes without user permissions. At first execution stage versionUpdater shows packages with possible version changes. Program shows a question: "Do yo want to continue and update packages?". Then user should take decision to apply this changes or not. 
 
 ### Dependeny
-- VersionUpdater depends on local console git client. 
+- VersionUpdater depends on the local console git client. 
