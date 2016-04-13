@@ -3,7 +3,7 @@
 ### Getting started
 
 - Clone this repo.
-- Execute commands:
+- Execute command:
   ```
   typings install
   ```
