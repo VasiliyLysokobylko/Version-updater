@@ -1,0 +1,20 @@
+{
+  "main_repo_path":{
+    "path":"/Users/vasil/Documents/workspace/job/versionUpdater/repos/raml-js-parser-2"
+  },
+  "raml-definition-system":{
+    "path":"/Users/vasil/Documents/workspace/job/versionUpdater/repos/raml-definition-system"
+  },
+  "ts-structure-parser":{
+    "path":"/Users/vasil/Documents/workspace/job/versionUpdater/repos/ts-structure-parser"
+  },
+  "raml-typesystem":{
+    "path":"/Users/vasil/Documents/workspace/job/versionUpdater/repos/typesystem-ts"
+  },
+  "atom-ui-lib":{
+    "path":"/Users/vasil/Documents/workspace/job/versionUpdater/repos/ui-libs"
+  },
+  "yaml-ast-parser":{
+    "path":"/Users/vasil/Documents/workspace/job/versionUpdater/repos/yaml-ast-parser"
+  }
+}
